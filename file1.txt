@@ -4,4 +4,5 @@ line2
 line3 -edit by kuk
 
 line5 -edit by kuk
+line6 -edit by kuk
 ----------
