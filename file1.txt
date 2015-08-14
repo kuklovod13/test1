@@ -1,12 +1,6 @@
 line1
 line2
 ----------
-line3 -edit by kuk
-
-line5 -edit by kuk
-line6 -edit by kuk
-line7 -edit by kuk
-line8 -edit by kuk
-line9 -edit by kuk
 line10 -edit by kuk
+line11 -edit by kuk
 ----------
